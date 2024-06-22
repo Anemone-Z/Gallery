@@ -1,0 +1,1 @@
+Beautify my blog.
